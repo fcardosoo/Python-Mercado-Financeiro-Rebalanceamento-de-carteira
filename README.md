@@ -1,0 +1,1 @@
+# Python-Mercado-Financeiro-Rebalanceamento-de-carteira
